@@ -1,0 +1,16 @@
+[
+  {
+    "country": "Nigeria",
+    "isp": "MTN",
+    "price_local": 1000,
+    "currency": "NGN",
+    "data_gb": 1.5
+  },
+  {
+    "country": "India",
+    "isp": "Jio",
+    "price_local": 299,
+    "currency": "INR",
+    "data_gb": 28
+  }
+]
